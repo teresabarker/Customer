@@ -13,7 +13,7 @@ public class Customer {
     public static void walkForward(){}
     public static void turnLeft(){}
     public static void turnRight(){}
-    public static void payMent(){}
+    public static void payment(){}
     public static void useHands(){}
 
     public String getCustomerFirstName() {return CustomerFirstName;}
